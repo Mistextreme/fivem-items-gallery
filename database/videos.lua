@@ -1,3 +1,0 @@
--- FiveManage Videos
-return {
-}

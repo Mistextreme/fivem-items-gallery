@@ -3919,5 +3919,1485 @@ return {
     ["van_lockpick"] = {
         label = "van_lockpick",
         image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/van_lockpick.png"
+    },
+    ["acetone"] = {
+        label = "acetone",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/acetone.png"
+    },
+    ["aluminum"] = {
+        label = "aluminum",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/aluminum.png"
+    },
+    ["aluminum2"] = {
+        label = "aluminum2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/aluminum2.png"
+    },
+    ["aluminumoxide"] = {
+        label = "aluminumoxide",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/aluminumoxide.png"
+    },
+    ["bark"] = {
+        label = "bark",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/bark.png"
+    },
+    ["bin_blue"] = {
+        label = "bin_blue",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/bin_blue.png"
+    },
+    ["bin_red"] = {
+        label = "bin_red",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/bin_red.png"
+    },
+    ["bird_feather"] = {
+        label = "bird_feather",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/bird_feather.png"
+    },
+    ["black-ingot"] = {
+        label = "black-ingot",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/black-ingot.png"
+    },
+    ["blue-ingot"] = {
+        label = "blue-ingot",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/blue-ingot.png"
+    },
+    ["bluepearl"] = {
+        label = "bluepearl",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/bluepearl.png"
+    },
+    ["bottle"] = {
+        label = "bottle",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/bottle.png"
+    },
+    ["brass"] = {
+        label = "brass",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/brass.png"
+    },
+    ["broken-glass"] = {
+        label = "broken-glass",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/broken-glass.png"
+    },
+    ["broken_glass"] = {
+        label = "broken_glass",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/broken_glass.png"
+    },
+    ["brown-ingot"] = {
+        label = "brown-ingot",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/brown-ingot.png"
+    },
+    ["bucket"] = {
+        label = "bucket",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/bucket.png"
+    },
+    ["bullet_casings"] = {
+        label = "bullet_casings",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/bullet_casings.png"
+    },
+    ["butcherpaper"] = {
+        label = "butcherpaper",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/butcherpaper.png"
+    },
+    ["cable"] = {
+        label = "cable",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/cable.png"
+    },
+    ["can"] = {
+        label = "can",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/can.png"
+    },
+    ["carbon"] = {
+        label = "carbon",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/carbon.png"
+    },
+    ["cardhat"] = {
+        label = "cardhat",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/cardhat.png"
+    },
+    ["chain"] = {
+        label = "chain",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/chain.png"
+    },
+    ["chain_parts"] = {
+        label = "chain_parts",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/chain_parts.png"
+    },
+    ["charcoal"] = {
+        label = "charcoal",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/charcoal.png"
+    },
+    ["charcoal2"] = {
+        label = "charcoal2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/charcoal2.png"
+    },
+    ["circuit_board"] = {
+        label = "circuit_board",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/circuit_board.png"
+    },
+    ["cloth"] = {
+        label = "cloth",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/cloth.png"
+    },
+    ["copper"] = {
+        label = "copper",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/copper.png"
+    },
+    ["copper_wires"] = {
+        label = "copper_wires",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/copper_wires.png"
+    },
+    ["copperwire"] = {
+        label = "copperwire",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/copperwire.png"
+    },
+    ["crudeoil"] = {
+        label = "crudeoil",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/crudeoil.png"
+    },
+    ["debarkedlog"] = {
+        label = "debarkedlog",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/debarkedlog.png"
+    },
+    ["fire"] = {
+        label = "fire",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/fire.png"
+    },
+    ["glass"] = {
+        label = "glass",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/glass.png"
+    },
+    ["gold-ingot"] = {
+        label = "gold-ingot",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/gold-ingot.png"
+    },
+    ["gold-ingot2"] = {
+        label = "gold-ingot2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/gold-ingot2.png"
+    },
+    ["gold-nugget"] = {
+        label = "gold-nugget",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/gold-nugget.png"
+    },
+    ["gold-nugget2"] = {
+        label = "gold-nugget2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/gold-nugget2.png"
+    },
+    ["gold-nugget3"] = {
+        label = "gold-nugget3",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/gold-nugget3.png"
+    },
+    ["goldbar"] = {
+        label = "goldbar",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/goldbar.png"
+    },
+    ["goldingot"] = {
+        label = "goldingot",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/goldingot.png"
+    },
+    ["goldore"] = {
+        label = "goldore",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/goldore.png"
+    },
+    ["goldpan"] = {
+        label = "goldpan",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/goldpan.png"
+    },
+    ["green-ingot"] = {
+        label = "green-ingot",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/green-ingot.png"
+    },
+    ["grey-ingot"] = {
+        label = "grey-ingot",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/grey-ingot.png"
+    },
+    ["gunpowder"] = {
+        label = "gunpowder",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/gunpowder.png"
+    },
+    ["hammer"] = {
+        label = "hammer",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/hammer.png"
+    },
+    ["hubcap"] = {
+        label = "hubcap",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/hubcap.png"
+    },
+    ["iron-ingot"] = {
+        label = "iron-ingot",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/iron-ingot.png"
+    },
+    ["iron-ingot2"] = {
+        label = "iron-ingot2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/iron-ingot2.png"
+    },
+    ["iron-ore"] = {
+        label = "iron-ore",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/iron-ore.png"
+    },
+    ["iron-trash"] = {
+        label = "iron-trash",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/iron-trash.png"
+    },
+    ["iron"] = {
+        label = "iron",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/iron.png"
+    },
+    ["ironore"] = {
+        label = "ironore",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/ironore.png"
+    },
+    ["kerosene"] = {
+        label = "kerosene",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/kerosene.png"
+    },
+    ["lightblue-ingot"] = {
+        label = "lightblue-ingot",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/lightblue-ingot.png"
+    },
+    ["lithium_battery"] = {
+        label = "lithium_battery",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/lithium_battery.png"
+    },
+    ["log"] = {
+        label = "log",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/log.png"
+    },
+    ["metalscrap"] = {
+        label = "metalscrap",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/metalscrap.png"
+    },
+    ["metaltrash"] = {
+        label = "metaltrash",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/metaltrash.png"
+    },
+    ["nails"] = {
+        label = "nails",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/nails.png"
+    },
+    ["nitrogen"] = {
+        label = "nitrogen",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/nitrogen.png"
+    },
+    ["oldcablereel"] = {
+        label = "oldcablereel",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/oldcablereel.png"
+    },
+    ["origami1"] = {
+        label = "origami1",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/origami1.png"
+    },
+    ["origami10"] = {
+        label = "origami10",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/origami10.png"
+    },
+    ["origami11"] = {
+        label = "origami11",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/origami11.png"
+    },
+    ["origami12"] = {
+        label = "origami12",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/origami12.png"
+    },
+    ["origami13"] = {
+        label = "origami13",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/origami13.png"
+    },
+    ["origami14"] = {
+        label = "origami14",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/origami14.png"
+    },
+    ["origami15"] = {
+        label = "origami15",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/origami15.png"
+    },
+    ["origami16"] = {
+        label = "origami16",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/origami16.png"
+    },
+    ["origami17"] = {
+        label = "origami17",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/origami17.png"
+    },
+    ["origami18"] = {
+        label = "origami18",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/origami18.png"
+    },
+    ["origami19"] = {
+        label = "origami19",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/origami19.png"
+    },
+    ["origami2"] = {
+        label = "origami2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/origami2.png"
+    },
+    ["origami20"] = {
+        label = "origami20",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/origami20.png"
+    },
+    ["origami21"] = {
+        label = "origami21",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/origami21.png"
+    },
+    ["origami3"] = {
+        label = "origami3",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/origami3.png"
+    },
+    ["origami4"] = {
+        label = "origami4",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/origami4.png"
+    },
+    ["origami5"] = {
+        label = "origami5",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/origami5.png"
+    },
+    ["origami6"] = {
+        label = "origami6",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/origami6.png"
+    },
+    ["origami7"] = {
+        label = "origami7",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/origami7.png"
+    },
+    ["origami8"] = {
+        label = "origami8",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/origami8.png"
+    },
+    ["origami9"] = {
+        label = "origami9",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/origami9.png"
+    },
+    ["oyster"] = {
+        label = "oyster",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/oyster.png"
+    },
+    ["painting"] = {
+        label = "painting",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/painting.png"
+    },
+    ["paperroll"] = {
+        label = "paperroll",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/paperroll.png"
+    },
+    ["pd_adpt_tracker"] = {
+        label = "pd_adpt_tracker",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/pd_adpt_tracker.png"
+    },
+    ["pd_adv_tracker"] = {
+        label = "pd_adv_tracker",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/pd_adv_tracker.png"
+    },
+    ["pd_mili_tracker"] = {
+        label = "pd_mili_tracker",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/pd_mili_tracker.png"
+    },
+    ["pd_tracker"] = {
+        label = "pd_tracker",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/pd_tracker.png"
+    },
+    ["plastic"] = {
+        label = "plastic",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/plastic.png"
+    },
+    ["raw-diamond"] = {
+        label = "raw-diamond",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/raw-diamond.png"
+    },
+    ["raw-ore"] = {
+        label = "raw-ore",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/raw-ore.png"
+    },
+    ["rock"] = {
+        label = "rock",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/rock.png"
+    },
+    ["rolling_paper"] = {
+        label = "rolling_paper",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/rolling_paper.png"
+    },
+    ["rolling_paper2"] = {
+        label = "rolling_paper2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/rolling_paper2.png"
+    },
+    ["rope"] = {
+        label = "rope",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/rope.png"
+    },
+    ["rubber"] = {
+        label = "rubber",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/rubber.png"
+    },
+    ["ruby"] = {
+        label = "ruby",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/ruby.png"
+    },
+    ["sapphire"] = {
+        label = "sapphire",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/sapphire.png"
+    },
+    ["scrap-iron"] = {
+        label = "scrap-iron",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/scrap-iron.png"
+    },
+    ["scrap_brass"] = {
+        label = "scrap_brass",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/scrap_brass.png"
+    },
+    ["scrap_iron"] = {
+        label = "scrap_iron",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/scrap_iron.png"
+    },
+    ["scrap_lead"] = {
+        label = "scrap_lead",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/scrap_lead.png"
+    },
+    ["sewingneedle"] = {
+        label = "sewingneedle",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/sewingneedle.png"
+    },
+    ["silver-ingot"] = {
+        label = "silver-ingot",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/silver-ingot.png"
+    },
+    ["silver-ingot2"] = {
+        label = "silver-ingot2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/silver-ingot2.png"
+    },
+    ["silver-nugget"] = {
+        label = "silver-nugget",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/silver-nugget.png"
+    },
+    ["silver-ore"] = {
+        label = "silver-ore",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/silver-ore.png"
+    },
+    ["silver_nugget"] = {
+        label = "silver_nugget",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/silver_nugget.png"
+    },
+    ["silveringot"] = {
+        label = "silveringot",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/silveringot.png"
+    },
+    ["silverore"] = {
+        label = "silverore",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/silverore.png"
+    },
+    ["snspistol_part_1"] = {
+        label = "snspistol_part_1",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/snspistol_part_1.png"
+    },
+    ["snspistol_part_2"] = {
+        label = "snspistol_part_2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/snspistol_part_2.png"
+    },
+    ["snspistol_part_3"] = {
+        label = "snspistol_part_3",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/snspistol_part_3.png"
+    },
+    ["spray_remover"] = {
+        label = "spray_remover",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/spray_remover.png"
+    },
+    ["spring"] = {
+        label = "spring",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/spring.png"
+    },
+    ["steel-ingot"] = {
+        label = "steel-ingot",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/steel-ingot.png"
+    },
+    ["steel"] = {
+        label = "steel",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/steel.png"
+    },
+    ["steel_parts1"] = {
+        label = "steel_parts1",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/steel_parts1.png"
+    },
+    ["steel_plate"] = {
+        label = "steel_plate",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/steel_plate.png"
+    },
+    ["stone"] = {
+        label = "stone",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/stone.png"
+    },
+    ["sulfur"] = {
+        label = "sulfur",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/sulfur.png"
+    },
+    ["sulfur2"] = {
+        label = "sulfur2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/sulfur2.png"
+    },
+    ["tape_duct"] = {
+        label = "tape_duct",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/tape_duct.png"
+    },
+    ["tape_electrical"] = {
+        label = "tape_electrical",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/tape_electrical.png"
+    },
+    ["tech_parts"] = {
+        label = "tech_parts",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/tech_parts.png"
+    },
+    ["thermite"] = {
+        label = "thermite",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/thermite.png"
+    },
+    ["titanium-ore"] = {
+        label = "titanium-ore",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/titanium-ore.png"
+    },
+    ["tweezers"] = {
+        label = "tweezers",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/tweezers.png"
+    },
+    ["uncut_diamond"] = {
+        label = "uncut_diamond",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/uncut_diamond.png"
+    },
+    ["uncut_emerald"] = {
+        label = "uncut_emerald",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/uncut_emerald.png"
+    },
+    ["uncut_ruby"] = {
+        label = "uncut_ruby",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/uncut_ruby.png"
+    },
+    ["uncut_sapphire"] = {
+        label = "uncut_sapphire",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/uncut_sapphire.png"
+    },
+    ["unrefined-ore"] = {
+        label = "unrefined-ore",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/unrefined-ore.png"
+    },
+    ["weapon_parts1"] = {
+        label = "weapon_parts1",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/weapon_parts1.png"
+    },
+    ["weapon_parts2"] = {
+        label = "weapon_parts2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/weapon_parts2.png"
+    },
+    ["wood"] = {
+        label = "wood",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/wood.png"
+    },
+    ["wood_cedar"] = {
+        label = "wood_cedar",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/wood_cedar.png"
+    },
+    ["wood_maple"] = {
+        label = "wood_maple",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/wood_maple.png"
+    },
+    ["wood_oak"] = {
+        label = "wood_oak",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/wood_oak.png"
+    },
+    ["wood_pine"] = {
+        label = "wood_pine",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/wood_pine.png"
+    },
+    ["wood_scraps"] = {
+        label = "wood_scraps",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/wood_scraps.png"
+    },
+    ["woodlog_small"] = {
+        label = "woodlog_small",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/woodlog_small.png"
+    },
+    ["woodplank"] = {
+        label = "woodplank",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/woodplank.png"
+    },
+    ["zinc-ingot"] = {
+        label = "zinc-ingot",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/zinc-ingot.png"
+    },
+    ["zinc-ore"] = {
+        label = "zinc-ore",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/zinc-ore.png"
+    },
+    ["zinc-sheet"] = {
+        label = "zinc-sheet",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/materials/zinc-sheet.png"
+    },
+    ["accesstool"] = {
+        label = "accesstool",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/accesstool.png"
+    },
+    ["advancedkit"] = {
+        label = "advancedkit",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/advancedkit.png"
+    },
+    ["advancedkit2"] = {
+        label = "advancedkit2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/advancedkit2.png"
+    },
+    ["anchor"] = {
+        label = "anchor",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/anchor.png"
+    },
+    ["anglegrinder"] = {
+        label = "anglegrinder",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/anglegrinder.png"
+    },
+    ["armour"] = {
+        label = "armour",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/armour.png"
+    },
+    ["axleparts"] = {
+        label = "axleparts",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/axleparts.png"
+    },
+    ["beltcutter"] = {
+        label = "beltcutter",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/beltcutter.png"
+    },
+    ["bodyrepair"] = {
+        label = "bodyrepair",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/bodyrepair.png"
+    },
+    ["boltcutter"] = {
+        label = "boltcutter",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/boltcutter.png"
+    },
+    ["bprooftires"] = {
+        label = "bprooftires",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/bprooftires.png"
+    },
+    ["brake_parts_a"] = {
+        label = "brake_parts_a",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/brake_parts_a.png"
+    },
+    ["brake_parts_b"] = {
+        label = "brake_parts_b",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/brake_parts_b.png"
+    },
+    ["brake_parts_c"] = {
+        label = "brake_parts_c",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/brake_parts_c.png"
+    },
+    ["brake_parts_d"] = {
+        label = "brake_parts_d",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/brake_parts_d.png"
+    },
+    ["brake_parts_s"] = {
+        label = "brake_parts_s",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/brake_parts_s.png"
+    },
+    ["brakes1"] = {
+        label = "brakes1",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/brakes1.png"
+    },
+    ["brakes2"] = {
+        label = "brakes2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/brakes2.png"
+    },
+    ["brakes3"] = {
+        label = "brakes3",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/brakes3.png"
+    },
+    ["brakesA"] = {
+        label = "brakesA",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/brakesA.png"
+    },
+    ["brakesB"] = {
+        label = "brakesB",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/brakesB.png"
+    },
+    ["brakesC"] = {
+        label = "brakesC",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/brakesC.png"
+    },
+    ["brakesD"] = {
+        label = "brakesD",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/brakesD.png"
+    },
+    ["brakesE"] = {
+        label = "brakesE",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/brakesE.png"
+    },
+    ["brakesS"] = {
+        label = "brakesS",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/brakesS.png"
+    },
+    ["bumper"] = {
+        label = "bumper",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/bumper.png"
+    },
+    ["car-battery"] = {
+        label = "car-battery",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/car-battery.png"
+    },
+    ["car-hood"] = {
+        label = "car-hood",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/car-hood.png"
+    },
+    ["carbattery"] = {
+        label = "carbattery",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/carbattery.png"
+    },
+    ["carjack"] = {
+        label = "carjack",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/carjack.png"
+    },
+    ["carkey"] = {
+        label = "carkey",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/carkey.png"
+    },
+    ["caroil"] = {
+        label = "caroil",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/caroil.png"
+    },
+    ["carplay"] = {
+        label = "carplay",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/carplay.png"
+    },
+    ["carstereo"] = {
+        label = "carstereo",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/carstereo.png"
+    },
+    ["cleaningkit"] = {
+        label = "cleaningkit",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/cleaningkit.png"
+    },
+    ["coiloversA"] = {
+        label = "coiloversA",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/coiloversA.png"
+    },
+    ["coiloversB"] = {
+        label = "coiloversB",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/coiloversB.png"
+    },
+    ["coiloversC"] = {
+        label = "coiloversC",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/coiloversC.png"
+    },
+    ["coiloversD"] = {
+        label = "coiloversD",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/coiloversD.png"
+    },
+    ["coiloversS_"] = {
+        label = "coiloversS_",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/coiloversS+.png"
+    },
+    ["coiloversS"] = {
+        label = "coiloversS",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/coiloversS.png"
+    },
+    ["cutter"] = {
+        label = "cutter",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/cutter.png"
+    },
+    ["drifttires"] = {
+        label = "drifttires",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/drifttires.png"
+    },
+    ["engine1"] = {
+        label = "engine1",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/engine1.png"
+    },
+    ["engine2"] = {
+        label = "engine2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/engine2.png"
+    },
+    ["engine3"] = {
+        label = "engine3",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/engine3.png"
+    },
+    ["engine4"] = {
+        label = "engine4",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/engine4.png"
+    },
+    ["engine5"] = {
+        label = "engine5",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/engine5.png"
+    },
+    ["engineA"] = {
+        label = "engineA",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/engineA.png"
+    },
+    ["engineB"] = {
+        label = "engineB",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/engineB.png"
+    },
+    ["engineC"] = {
+        label = "engineC",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/engineC.png"
+    },
+    ["engineD"] = {
+        label = "engineD",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/engineD.png"
+    },
+    ["engineS_"] = {
+        label = "engineS_",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/engineS+.png"
+    },
+    ["engineS"] = {
+        label = "engineS",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/engineS.png"
+    },
+    ["engine_parts_a"] = {
+        label = "engine_parts_a",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/engine_parts_a.png"
+    },
+    ["engine_parts_b"] = {
+        label = "engine_parts_b",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/engine_parts_b.png"
+    },
+    ["engine_parts_c"] = {
+        label = "engine_parts_c",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/engine_parts_c.png"
+    },
+    ["engine_parts_d"] = {
+        label = "engine_parts_d",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/engine_parts_d.png"
+    },
+    ["engine_parts_s"] = {
+        label = "engine_parts_s",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/engine_parts_s.png"
+    },
+    ["engine_parts_x"] = {
+        label = "engine_parts_x",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/engine_parts_x.png"
+    },
+    ["exhaust"] = {
+        label = "exhaust",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/exhaust.png"
+    },
+    ["expert_towingrope"] = {
+        label = "expert_towingrope",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/expert_towingrope.png"
+    },
+    ["harness"] = {
+        label = "harness",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/harness.png"
+    },
+    ["harness_blue"] = {
+        label = "harness_blue",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/harness_blue.png"
+    },
+    ["harness_green"] = {
+        label = "harness_green",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/harness_green.png"
+    },
+    ["harness_grey"] = {
+        label = "harness_grey",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/harness_grey.png"
+    },
+    ["harness_orange"] = {
+        label = "harness_orange",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/harness_orange.png"
+    },
+    ["harness_pink"] = {
+        label = "harness_pink",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/harness_pink.png"
+    },
+    ["harness_purple"] = {
+        label = "harness_purple",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/harness_purple.png"
+    },
+    ["harness_red"] = {
+        label = "harness_red",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/harness_red.png"
+    },
+    ["harness_yellow"] = {
+        label = "harness_yellow",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/harness_yellow.png"
+    },
+    ["headlights"] = {
+        label = "headlights",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/headlights.png"
+    },
+    ["hood"] = {
+        label = "hood",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/hood.png"
+    },
+    ["horn"] = {
+        label = "horn",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/horn.png"
+    },
+    ["ifaks"] = {
+        label = "ifaks",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/ifaks.png"
+    },
+    ["internals"] = {
+        label = "internals",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/internals.png"
+    },
+    ["jack"] = {
+        label = "jack",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/jack.png"
+    },
+    ["jerry_can"] = {
+        label = "jerry_can",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/jerry_can.png"
+    },
+    ["jumper_cables"] = {
+        label = "jumper_cables",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/jumper_cables.png"
+    },
+    ["jumper_cables2"] = {
+        label = "jumper_cables2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/jumper_cables2.png"
+    },
+    ["k20a"] = {
+        label = "k20a",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/k20a.png"
+    },
+    ["lambov10"] = {
+        label = "lambov10",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/lambov10.png"
+    },
+    ["livery"] = {
+        label = "livery",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/livery.png"
+    },
+    ["mechanic_armor"] = {
+        label = "mechanic_armor",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_armor.png"
+    },
+    ["mechanic_bonnet"] = {
+        label = "mechanic_bonnet",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_bonnet.png"
+    },
+    ["mechanic_brakes_lvl1"] = {
+        label = "mechanic_brakes_lvl1",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_brakes_lvl1.png"
+    },
+    ["mechanic_brakes_lvl2"] = {
+        label = "mechanic_brakes_lvl2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_brakes_lvl2.png"
+    },
+    ["mechanic_brakes_lvl3"] = {
+        label = "mechanic_brakes_lvl3",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_brakes_lvl3.png"
+    },
+    ["mechanic_bumpers"] = {
+        label = "mechanic_bumpers",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_bumpers.png"
+    },
+    ["mechanic_drift_tyres"] = {
+        label = "mechanic_drift_tyres",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_drift_tyres.png"
+    },
+    ["mechanic_engine_lvl1"] = {
+        label = "mechanic_engine_lvl1",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_engine_lvl1.png"
+    },
+    ["mechanic_engine_lvl2"] = {
+        label = "mechanic_engine_lvl2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_engine_lvl2.png"
+    },
+    ["mechanic_engine_lvl3"] = {
+        label = "mechanic_engine_lvl3",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_engine_lvl3.png"
+    },
+    ["mechanic_engine_lvl4"] = {
+        label = "mechanic_engine_lvl4",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_engine_lvl4.png"
+    },
+    ["mechanic_exhaust"] = {
+        label = "mechanic_exhaust",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_exhaust.png"
+    },
+    ["mechanic_grill"] = {
+        label = "mechanic_grill",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_grill.png"
+    },
+    ["mechanic_horn"] = {
+        label = "mechanic_horn",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_horn.png"
+    },
+    ["mechanic_livery"] = {
+        label = "mechanic_livery",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_livery.png"
+    },
+    ["mechanic_mods_receipt"] = {
+        label = "mechanic_mods_receipt",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_mods_receipt.png"
+    },
+    ["mechanic_neons_controller"] = {
+        label = "mechanic_neons_controller",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_neons_controller.png"
+    },
+    ["mechanic_nitrous"] = {
+        label = "mechanic_nitrous",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_nitrous.png"
+    },
+    ["mechanic_paint_spray"] = {
+        label = "mechanic_paint_spray",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_paint_spray.png"
+    },
+    ["mechanic_plate"] = {
+        label = "mechanic_plate",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_plate.png"
+    },
+    ["mechanic_roof"] = {
+        label = "mechanic_roof",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_roof.png"
+    },
+    ["mechanic_skirt"] = {
+        label = "mechanic_skirt",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_skirt.png"
+    },
+    ["mechanic_spoiler"] = {
+        label = "mechanic_spoiler",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_spoiler.png"
+    },
+    ["mechanic_suspension_lvl1"] = {
+        label = "mechanic_suspension_lvl1",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_suspension_lvl1.png"
+    },
+    ["mechanic_suspension_lvl2"] = {
+        label = "mechanic_suspension_lvl2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_suspension_lvl2.png"
+    },
+    ["mechanic_suspension_lvl3"] = {
+        label = "mechanic_suspension_lvl3",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_suspension_lvl3.png"
+    },
+    ["mechanic_suspension_lvl4"] = {
+        label = "mechanic_suspension_lvl4",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_suspension_lvl4.png"
+    },
+    ["mechanic_toolbox"] = {
+        label = "mechanic_toolbox",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_toolbox.png"
+    },
+    ["mechanic_tools"] = {
+        label = "mechanic_tools",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_tools.png"
+    },
+    ["mechanic_transmission_lvl1"] = {
+        label = "mechanic_transmission_lvl1",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_transmission_lvl1.png"
+    },
+    ["mechanic_transmission_lvl2"] = {
+        label = "mechanic_transmission_lvl2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_transmission_lvl2.png"
+    },
+    ["mechanic_transmission_lvl3"] = {
+        label = "mechanic_transmission_lvl3",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_transmission_lvl3.png"
+    },
+    ["mechanic_transmission_lvl4"] = {
+        label = "mechanic_transmission_lvl4",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_transmission_lvl4.png"
+    },
+    ["mechanic_turbo"] = {
+        label = "mechanic_turbo",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_turbo.png"
+    },
+    ["mechanic_washing_kit"] = {
+        label = "mechanic_washing_kit",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_washing_kit.png"
+    },
+    ["mechanic_wheels"] = {
+        label = "mechanic_wheels",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_wheels.png"
+    },
+    ["mechanic_window_tint"] = {
+        label = "mechanic_window_tint",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechanic_window_tint.png"
+    },
+    ["mechboard"] = {
+        label = "mechboard",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechboard.png"
+    },
+    ["mechspray_blue"] = {
+        label = "mechspray_blue",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechspray_blue.png"
+    },
+    ["mechspray_blue2"] = {
+        label = "mechspray_blue2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechspray_blue2.png"
+    },
+    ["mechspray_gold2"] = {
+        label = "mechspray_gold2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechspray_gold2.png"
+    },
+    ["mechspray_green"] = {
+        label = "mechspray_green",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechspray_green.png"
+    },
+    ["mechspray_green2"] = {
+        label = "mechspray_green2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechspray_green2.png"
+    },
+    ["mechspray_lime2"] = {
+        label = "mechspray_lime2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechspray_lime2.png"
+    },
+    ["mechspray_orange"] = {
+        label = "mechspray_orange",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechspray_orange.png"
+    },
+    ["mechspray_orange2"] = {
+        label = "mechspray_orange2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechspray_orange2.png"
+    },
+    ["mechspray_pink2"] = {
+        label = "mechspray_pink2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechspray_pink2.png"
+    },
+    ["mechspray_purple"] = {
+        label = "mechspray_purple",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechspray_purple.png"
+    },
+    ["mechspray_purple2"] = {
+        label = "mechspray_purple2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechspray_purple2.png"
+    },
+    ["mechspray_red"] = {
+        label = "mechspray_red",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechspray_red.png"
+    },
+    ["mechspray_red2"] = {
+        label = "mechspray_red2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechspray_red2.png"
+    },
+    ["mechspray_sky"] = {
+        label = "mechspray_sky",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechspray_sky.png"
+    },
+    ["mechspray_sky2"] = {
+        label = "mechspray_sky2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechspray_sky2.png"
+    },
+    ["mechspray_yellow"] = {
+        label = "mechspray_yellow",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechspray_yellow.png"
+    },
+    ["mechspray_yellow2"] = {
+        label = "mechspray_yellow2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mechspray_yellow2.png"
+    },
+    ["mirror"] = {
+        label = "mirror",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/mirror.png"
+    },
+    ["nitrous"] = {
+        label = "nitrous",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/nitrous.png"
+    },
+    ["nitrous2"] = {
+        label = "nitrous2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/nitrous2.png"
+    },
+    ["nitrous3"] = {
+        label = "nitrous3",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/nitrous3.png"
+    },
+    ["nos"] = {
+        label = "nos",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/nos.png"
+    },
+    ["noscan"] = {
+        label = "noscan",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/noscan.png"
+    },
+    ["originalplate"] = {
+        label = "originalplate",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/originalplate.png"
+    },
+    ["plate2"] = {
+        label = "plate2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/plate2.png"
+    },
+    ["plate3"] = {
+        label = "plate3",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/plate3.png"
+    },
+    ["plateflipper"] = {
+        label = "plateflipper",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/plateflipper.png"
+    },
+    ["powersaw"] = {
+        label = "powersaw",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/powersaw.png"
+    },
+    ["pwasher"] = {
+        label = "pwasher",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/pwasher.png"
+    },
+    ["repair_kit"] = {
+        label = "repair_kit",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/repair_kit.png"
+    },
+    ["repairkit"] = {
+        label = "repairkit",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/repairkit.png"
+    },
+    ["repairkit2"] = {
+        label = "repairkit2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/repairkit2.png"
+    },
+    ["repairkit3"] = {
+        label = "repairkit3",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/repairkit3.png"
+    },
+    ["resourceOil"] = {
+        label = "resourceOil",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/resourceOil.png"
+    },
+    ["rifle_drummag"] = {
+        label = "rifle_drummag",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/rifle_drummag.png"
+    },
+    ["rim"] = {
+        label = "rim",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/rim.png"
+    },
+    ["rims"] = {
+        label = "rims",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/rims.png"
+    },
+    ["rollcage"] = {
+        label = "rollcage",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/rollcage.png"
+    },
+    ["roof"] = {
+        label = "roof",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/roof.png"
+    },
+    ["seat"] = {
+        label = "seat",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/seat.png"
+    },
+    ["shonen"] = {
+        label = "shonen",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/shonen.png"
+    },
+    ["shoprepairkit"] = {
+        label = "shoprepairkit",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/shoprepairkit.png"
+    },
+    ["skirts"] = {
+        label = "skirts",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/skirts.png"
+    },
+    ["spanner"] = {
+        label = "spanner",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/spanner.png"
+    },
+    ["sparetire"] = {
+        label = "sparetire",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/sparetire.png"
+    },
+    ["sparkplugs"] = {
+        label = "sparkplugs",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/sparkplugs.png"
+    },
+    ["spoiler"] = {
+        label = "spoiler",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/spoiler.png"
+    },
+    ["spray"] = {
+        label = "spray",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/spray.png"
+    },
+    ["stancer_blue"] = {
+        label = "stancer_blue",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/stancer_blue.png"
+    },
+    ["stancer_green"] = {
+        label = "stancer_green",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/stancer_green.png"
+    },
+    ["stancer_purple"] = {
+        label = "stancer_purple",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/stancer_purple.png"
+    },
+    ["stancer_yellow"] = {
+        label = "stancer_yellow",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/stancer_yellow.png"
+    },
+    ["stancerkit"] = {
+        label = "stancerkit",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/stancerkit.png"
+    },
+    ["stock_suspension"] = {
+        label = "stock_suspension",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/stock_suspension.png"
+    },
+    ["suspension1"] = {
+        label = "suspension1",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/suspension1.png"
+    },
+    ["suspension2"] = {
+        label = "suspension2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/suspension2.png"
+    },
+    ["suspension3"] = {
+        label = "suspension3",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/suspension3.png"
+    },
+    ["suspension4"] = {
+        label = "suspension4",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/suspension4.png"
+    },
+    ["suspension5"] = {
+        label = "suspension5",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/suspension5.png"
+    },
+    ["suspension_A"] = {
+        label = "suspension_A",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/suspension_A.png"
+    },
+    ["suspension_B"] = {
+        label = "suspension_B",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/suspension_B.png"
+    },
+    ["suspension_C"] = {
+        label = "suspension_C",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/suspension_C.png"
+    },
+    ["suspension_D"] = {
+        label = "suspension_D",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/suspension_D.png"
+    },
+    ["suspension_S"] = {
+        label = "suspension_S",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/suspension_S.png"
+    },
+    ["tint_supplies"] = {
+        label = "tint_supplies",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/tint_supplies.png"
+    },
+    ["tires"] = {
+        label = "tires",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/tires.png"
+    },
+    ["toolbox"] = {
+        label = "toolbox",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/toolbox.png"
+    },
+    ["tracker"] = {
+        label = "tracker",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/tracker.png"
+    },
+    ["transmission1"] = {
+        label = "transmission1",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/transmission1.png"
+    },
+    ["transmission2"] = {
+        label = "transmission2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/transmission2.png"
+    },
+    ["transmission3"] = {
+        label = "transmission3",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/transmission3.png"
+    },
+    ["transmission4"] = {
+        label = "transmission4",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/transmission4.png"
+    },
+    ["transmission_parts_a"] = {
+        label = "transmission_parts_a",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/transmission_parts_a.png"
+    },
+    ["transmission_parts_b"] = {
+        label = "transmission_parts_b",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/transmission_parts_b.png"
+    },
+    ["transmission_parts_c"] = {
+        label = "transmission_parts_c",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/transmission_parts_c.png"
+    },
+    ["transmission_parts_d"] = {
+        label = "transmission_parts_d",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/transmission_parts_d.png"
+    },
+    ["transmission_parts_s"] = {
+        label = "transmission_parts_s",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/transmission_parts_s.png"
+    },
+    ["transmission_parts_x"] = {
+        label = "transmission_parts_x",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/transmission_parts_x.png"
+    },
+    ["tunerchip"] = {
+        label = "tunerchip",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/tunerchip.png"
+    },
+    ["turbo"] = {
+        label = "turbo",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/turbo.png"
+    },
+    ["tyre_bennys"] = {
+        label = "tyre_bennys",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/tyre_bennys.png"
+    },
+    ["tyre_bespoke"] = {
+        label = "tyre_bespoke",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/tyre_bespoke.png"
+    },
+    ["tyre_f1"] = {
+        label = "tyre_f1",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/tyre_f1.png"
+    },
+    ["tyre_highend"] = {
+        label = "tyre_highend",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/tyre_highend.png"
+    },
+    ["tyre_lowrider"] = {
+        label = "tyre_lowrider",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/tyre_lowrider.png"
+    },
+    ["tyre_motorcycle"] = {
+        label = "tyre_motorcycle",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/tyre_motorcycle.png"
+    },
+    ["tyre_muscle"] = {
+        label = "tyre_muscle",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/tyre_muscle.png"
+    },
+    ["tyre_offroad"] = {
+        label = "tyre_offroad",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/tyre_offroad.png"
+    },
+    ["tyre_sport"] = {
+        label = "tyre_sport",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/tyre_sport.png"
+    },
+    ["tyre_street"] = {
+        label = "tyre_street",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/tyre_street.png"
+    },
+    ["tyre_suv"] = {
+        label = "tyre_suv",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/tyre_suv.png"
+    },
+    ["tyre_tuner"] = {
+        label = "tyre_tuner",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/tyre_tuner.png"
+    },
+    ["underglow_controller"] = {
+        label = "underglow_controller",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/underglow_controller.png"
+    },
+    ["v10engine"] = {
+        label = "v10engine",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/v10engine.png"
+    },
+    ["v12engine"] = {
+        label = "v12engine",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/v12engine.png"
+    },
+    ["v8engine"] = {
+        label = "v8engine",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/v8engine.png"
+    },
+    ["wheel_1"] = {
+        label = "wheel_1",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/wheel_1.png"
+    },
+    ["wrench"] = {
+        label = "wrench",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/mechanic/wrench.png"
     }
 }

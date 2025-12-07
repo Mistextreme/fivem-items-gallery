@@ -2987,5 +2987,937 @@ return {
     ["yukka_glass"] = {
         label = "yukka_glass",
         image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/drinks/yukka_glass.png"
+    },
+    ["bragas"] = {
+        label = "bragas",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/erp/bragas.png"
+    },
+    ["compresausada"] = {
+        label = "compresausada",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/erp/compresausada.png"
+    },
+    ["condom_green"] = {
+        label = "condom_green",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/erp/condom_green.png"
+    },
+    ["condom_pink"] = {
+        label = "condom_pink",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/erp/condom_pink.png"
+    },
+    ["condom_purple"] = {
+        label = "condom_purple",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/erp/condom_purple.png"
+    },
+    ["condom_red"] = {
+        label = "condom_red",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/erp/condom_red.png"
+    },
+    ["condon"] = {
+        label = "condon",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/erp/condon.png"
+    },
+    ["condonusado"] = {
+        label = "condonusado",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/erp/condonusado.png"
+    },
+    ["consolador"] = {
+        label = "consolador",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/erp/consolador.png"
+    },
+    ["dildo"] = {
+        label = "dildo",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/erp/dildo.png"
+    },
+    ["mierda"] = {
+        label = "mierda",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/erp/mierda.png"
+    },
+    ["apple"] = {
+        label = "apple",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/apple.png"
+    },
+    ["apple_crate"] = {
+        label = "apple_crate",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/apple_crate.png"
+    },
+    ["barley"] = {
+        label = "barley",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/barley.png"
+    },
+    ["barley_sack"] = {
+        label = "barley_sack",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/barley_sack.png"
+    },
+    ["barley_seed"] = {
+        label = "barley_seed",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/barley_seed.png"
+    },
+    ["blueberry"] = {
+        label = "blueberry",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/blueberry.png"
+    },
+    ["blueberry_crate"] = {
+        label = "blueberry_crate",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/blueberry_crate.png"
+    },
+    ["blueberry_seed"] = {
+        label = "blueberry_seed",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/blueberry_seed.png"
+    },
+    ["broccoli"] = {
+        label = "broccoli",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/broccoli.png"
+    },
+    ["broccoli_crate"] = {
+        label = "broccoli_crate",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/broccoli_crate.png"
+    },
+    ["broccoli_seed"] = {
+        label = "broccoli_seed",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/broccoli_seed.png"
+    },
+    ["cactus_seed"] = {
+        label = "cactus_seed",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/cactus_seed.png"
+    },
+    ["cactusfruit"] = {
+        label = "cactusfruit",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/cactusfruit.png"
+    },
+    ["cactusfruit_crate"] = {
+        label = "cactusfruit_crate",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/cactusfruit_crate.png"
+    },
+    ["carrot"] = {
+        label = "carrot",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/carrot.png"
+    },
+    ["carrot_crate"] = {
+        label = "carrot_crate",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/carrot_crate.png"
+    },
+    ["carrot_raw"] = {
+        label = "carrot_raw",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/carrot_raw.png"
+    },
+    ["carrot_seed"] = {
+        label = "carrot_seed",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/carrot_seed.png"
+    },
+    ["corn"] = {
+        label = "corn",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/corn.png"
+    },
+    ["corn_crate"] = {
+        label = "corn_crate",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/corn_crate.png"
+    },
+    ["corn_raw"] = {
+        label = "corn_raw",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/corn_raw.png"
+    },
+    ["corn_seed"] = {
+        label = "corn_seed",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/corn_seed.png"
+    },
+    ["cucumber"] = {
+        label = "cucumber",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/cucumber.png"
+    },
+    ["cucumber_crate"] = {
+        label = "cucumber_crate",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/cucumber_crate.png"
+    },
+    ["cucumber_seed"] = {
+        label = "cucumber_seed",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/cucumber_seed.png"
+    },
+    ["egg"] = {
+        label = "egg",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/egg.png"
+    },
+    ["egg_crate"] = {
+        label = "egg_crate",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/egg_crate.png"
+    },
+    ["emptycrate"] = {
+        label = "emptycrate",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/emptycrate.png"
+    },
+    ["emptysack"] = {
+        label = "emptysack",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/emptysack.png"
+    },
+    ["farm_fertilizer"] = {
+        label = "farm_fertilizer",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/farm_fertilizer.png"
+    },
+    ["farmguide"] = {
+        label = "farmguide",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/farmguide.png"
+    },
+    ["garden_pitcher"] = {
+        label = "garden_pitcher",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/garden_pitcher.png"
+    },
+    ["garden_shovel"] = {
+        label = "garden_shovel",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/garden_shovel.png"
+    },
+    ["lemon"] = {
+        label = "lemon",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/lemon.png"
+    },
+    ["lemon_crate"] = {
+        label = "lemon_crate",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/lemon_crate.png"
+    },
+    ["lettuce"] = {
+        label = "lettuce",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/lettuce.png"
+    },
+    ["lettuce_crate"] = {
+        label = "lettuce_crate",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/lettuce_crate.png"
+    },
+    ["lettuce_seed"] = {
+        label = "lettuce_seed",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/lettuce_seed.png"
+    },
+    ["lime"] = {
+        label = "lime",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/lime.png"
+    },
+    ["lime_crate"] = {
+        label = "lime_crate",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/lime_crate.png"
+    },
+    ["maize"] = {
+        label = "maize",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/maize.png"
+    },
+    ["maize_sack"] = {
+        label = "maize_sack",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/maize_sack.png"
+    },
+    ["maize_seed"] = {
+        label = "maize_seed",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/maize_seed.png"
+    },
+    ["milk_crate"] = {
+        label = "milk_crate",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/milk_crate.png"
+    },
+    ["milk_pail"] = {
+        label = "milk_pail",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/milk_pail.png"
+    },
+    ["milking_pail"] = {
+        label = "milking_pail",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/milking_pail.png"
+    },
+    ["mushroom"] = {
+        label = "mushroom",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/mushroom.png"
+    },
+    ["mushroom_sack"] = {
+        label = "mushroom_sack",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/mushroom_sack.png"
+    },
+    ["mushroom_seed"] = {
+        label = "mushroom_seed",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/mushroom_seed.png"
+    },
+    ["orange"] = {
+        label = "orange",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/orange.png"
+    },
+    ["orange_crate"] = {
+        label = "orange_crate",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/orange_crate.png"
+    },
+    ["peach"] = {
+        label = "peach",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/peach.png"
+    },
+    ["peach_crate"] = {
+        label = "peach_crate",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/peach_crate.png"
+    },
+    ["pineapple"] = {
+        label = "pineapple",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/pineapple.png"
+    },
+    ["pineapple_crate"] = {
+        label = "pineapple_crate",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/pineapple_crate.png"
+    },
+    ["pineapple_seed"] = {
+        label = "pineapple_seed",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/pineapple_seed.png"
+    },
+    ["potato"] = {
+        label = "potato",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/potato.png"
+    },
+    ["potato_raw"] = {
+        label = "potato_raw",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/potato_raw.png"
+    },
+    ["potato_sack"] = {
+        label = "potato_sack",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/potato_sack.png"
+    },
+    ["potato_seed"] = {
+        label = "potato_seed",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/potato_seed.png"
+    },
+    ["seed_agarita"] = {
+        label = "seed_agarita",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_agarita.png"
+    },
+    ["seed_agave"] = {
+        label = "seed_agave",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_agave.png"
+    },
+    ["seed_alaskan_ginseng"] = {
+        label = "seed_alaskan_ginseng",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_alaskan_ginseng.png"
+    },
+    ["seed_aloe_vera"] = {
+        label = "seed_aloe_vera",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_aloe_vera.png"
+    },
+    ["seed_american_ginseng"] = {
+        label = "seed_american_ginseng",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_american_ginseng.png"
+    },
+    ["seed_apple"] = {
+        label = "seed_apple",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_apple.png"
+    },
+    ["seed_artichoke"] = {
+        label = "seed_artichoke",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_artichoke.png"
+    },
+    ["seed_banana"] = {
+        label = "seed_banana",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_banana.png"
+    },
+    ["seed_barley"] = {
+        label = "seed_barley",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_barley.png"
+    },
+    ["seed_basil"] = {
+        label = "seed_basil",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_basil.png"
+    },
+    ["seed_bay_bolete"] = {
+        label = "seed_bay_bolete",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_bay_bolete.png"
+    },
+    ["seed_bean"] = {
+        label = "seed_bean",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_bean.png"
+    },
+    ["seed_beetroot"] = {
+        label = "seed_beetroot",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_beetroot.png"
+    },
+    ["seed_bell_pepper_assorted"] = {
+        label = "seed_bell_pepper_assorted",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_bell_pepper_assorted.png"
+    },
+    ["seed_bell_pepper_green"] = {
+        label = "seed_bell_pepper_green",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_bell_pepper_green.png"
+    },
+    ["seed_bitter_weed"] = {
+        label = "seed_bitter_weed",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_bitter_weed.png"
+    },
+    ["seed_black_berry"] = {
+        label = "seed_black_berry",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_black_berry.png"
+    },
+    ["seed_black_currant"] = {
+        label = "seed_black_currant",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_black_currant.png"
+    },
+    ["seed_blood_flower"] = {
+        label = "seed_blood_flower",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_blood_flower.png"
+    },
+    ["seed_blueberry"] = {
+        label = "seed_blueberry",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_blueberry.png"
+    },
+    ["seed_broccoli"] = {
+        label = "seed_broccoli",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_broccoli.png"
+    },
+    ["seed_broomcorn_millet"] = {
+        label = "seed_broomcorn_millet",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_broomcorn_millet.png"
+    },
+    ["seed_bulrush"] = {
+        label = "seed_bulrush",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_bulrush.png"
+    },
+    ["seed_burdock_root"] = {
+        label = "seed_burdock_root",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_burdock_root.png"
+    },
+    ["seed_cardinal_flower"] = {
+        label = "seed_cardinal_flower",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_cardinal_flower.png"
+    },
+    ["seed_carrot"] = {
+        label = "seed_carrot",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_carrot.png"
+    },
+    ["seed_celery"] = {
+        label = "seed_celery",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_celery.png"
+    },
+    ["seed_chamomile"] = {
+        label = "seed_chamomile",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_chamomile.png"
+    },
+    ["seed_chanterelles"] = {
+        label = "seed_chanterelles",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_chanterelles.png"
+    },
+    ["seed_cherry"] = {
+        label = "seed_cherry",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_cherry.png"
+    },
+    ["seed_chili_peppers"] = {
+        label = "seed_chili_peppers",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_chili_peppers.png"
+    },
+    ["seed_choc_daisy"] = {
+        label = "seed_choc_daisy",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_choc_daisy.png"
+    },
+    ["seed_cocoa"] = {
+        label = "seed_cocoa",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_cocoa.png"
+    },
+    ["seed_coconut"] = {
+        label = "seed_coconut",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_coconut.png"
+    },
+    ["seed_coffee"] = {
+        label = "seed_coffee",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_coffee.png"
+    },
+    ["seed_corn"] = {
+        label = "seed_corn",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_corn.png"
+    },
+    ["seed_cotton"] = {
+        label = "seed_cotton",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_cotton.png"
+    },
+    ["seed_crabapple"] = {
+        label = "seed_crabapple",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_crabapple.png"
+    },
+    ["seed_creekplum"] = {
+        label = "seed_creekplum",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_creekplum.png"
+    },
+    ["seed_creeping_thyme"] = {
+        label = "seed_creeping_thyme",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_creeping_thyme.png"
+    },
+    ["seed_crows_garlic"] = {
+        label = "seed_crows_garlic",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_crows_garlic.png"
+    },
+    ["seed_cucumber"] = {
+        label = "seed_cucumber",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_cucumber.png"
+    },
+    ["seed_currant"] = {
+        label = "seed_currant",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_currant.png"
+    },
+    ["seed_desert_sage"] = {
+        label = "seed_desert_sage",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_desert_sage.png"
+    },
+    ["seed_dill"] = {
+        label = "seed_dill",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_dill.png"
+    },
+    ["seed_echinacea"] = {
+        label = "seed_echinacea",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_echinacea.png"
+    },
+    ["seed_english_mace"] = {
+        label = "seed_english_mace",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_english_mace.png"
+    },
+    ["seed_evergreen_huckleberry"] = {
+        label = "seed_evergreen_huckleberry",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_evergreen_huckleberry.png"
+    },
+    ["seed_golden_currant"] = {
+        label = "seed_golden_currant",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_golden_currant.png"
+    },
+    ["seed_grapes"] = {
+        label = "seed_grapes",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_grapes.png"
+    },
+    ["seed_hemp"] = {
+        label = "seed_hemp",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_hemp.png"
+    },
+    ["seed_hop"] = {
+        label = "seed_hop",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_hop.png"
+    },
+    ["seed_hummingbird_sage"] = {
+        label = "seed_hummingbird_sage",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_hummingbird_sage.png"
+    },
+    ["seed_indian_tobacco"] = {
+        label = "seed_indian_tobacco",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_indian_tobacco.png"
+    },
+    ["seed_juniper"] = {
+        label = "seed_juniper",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_juniper.png"
+    },
+    ["seed_lavender"] = {
+        label = "seed_lavender",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_lavender.png"
+    },
+    ["seed_lemon"] = {
+        label = "seed_lemon",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_lemon.png"
+    },
+    ["seed_lettuce"] = {
+        label = "seed_lettuce",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_lettuce.png"
+    },
+    ["seed_lime"] = {
+        label = "seed_lime",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_lime.png"
+    },
+    ["seed_milk_weed"] = {
+        label = "seed_milk_weed",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_milk_weed.png"
+    },
+    ["seed_oat"] = {
+        label = "seed_oat",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_oat.png"
+    },
+    ["seed_oleander_sage"] = {
+        label = "seed_oleander_sage",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_oleander_sage.png"
+    },
+    ["seed_onion_assorted"] = {
+        label = "seed_onion_assorted",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_onion_assorted.png"
+    },
+    ["seed_onion_vidalia"] = {
+        label = "seed_onion_vidalia",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_onion_vidalia.png"
+    },
+    ["seed_orange"] = {
+        label = "seed_orange",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_orange.png"
+    },
+    ["seed_oregano"] = {
+        label = "seed_oregano",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_oregano.png"
+    },
+    ["seed_parasol_mushroom"] = {
+        label = "seed_parasol_mushroom",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_parasol_mushroom.png"
+    },
+    ["seed_peach"] = {
+        label = "seed_peach",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_peach.png"
+    },
+    ["seed_peanut"] = {
+        label = "seed_peanut",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_peanut.png"
+    },
+    ["seed_peppercorn"] = {
+        label = "seed_peppercorn",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_peppercorn.png"
+    },
+    ["seed_potato"] = {
+        label = "seed_potato",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_potato.png"
+    },
+    ["seed_prairie_poppy"] = {
+        label = "seed_prairie_poppy",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_prairie_poppy.png"
+    },
+    ["seed_pumpkin"] = {
+        label = "seed_pumpkin",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_pumpkin.png"
+    },
+    ["seed_rams_head"] = {
+        label = "seed_rams_head",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_rams_head.png"
+    },
+    ["seed_red_raspberry"] = {
+        label = "seed_red_raspberry",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_red_raspberry.png"
+    },
+    ["seed_red_sage"] = {
+        label = "seed_red_sage",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_red_sage.png"
+    },
+    ["seed_rice"] = {
+        label = "seed_rice",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_rice.png"
+    },
+    ["seed_saltbush"] = {
+        label = "seed_saltbush",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_saltbush.png"
+    },
+    ["seed_squash"] = {
+        label = "seed_squash",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_squash.png"
+    },
+    ["seed_stining_nettle"] = {
+        label = "seed_stining_nettle",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_stining_nettle.png"
+    },
+    ["seed_strawberry"] = {
+        label = "seed_strawberry",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_strawberry.png"
+    },
+    ["seed_sugar_cane"] = {
+        label = "seed_sugar_cane",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_sugar_cane.png"
+    },
+    ["seed_tea"] = {
+        label = "seed_tea",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_tea.png"
+    },
+    ["seed_texas_bonnet"] = {
+        label = "seed_texas_bonnet",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_texas_bonnet.png"
+    },
+    ["seed_tomato"] = {
+        label = "seed_tomato",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_tomato.png"
+    },
+    ["seed_vanilla"] = {
+        label = "seed_vanilla",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_vanilla.png"
+    },
+    ["seed_violet_snowdrop"] = {
+        label = "seed_violet_snowdrop",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_violet_snowdrop.png"
+    },
+    ["seed_wheat"] = {
+        label = "seed_wheat",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_wheat.png"
+    },
+    ["seed_wild_feverfew"] = {
+        label = "seed_wild_feverfew",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_wild_feverfew.png"
+    },
+    ["seed_wild_mint"] = {
+        label = "seed_wild_mint",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_wild_mint.png"
+    },
+    ["seed_wild_rhubarb"] = {
+        label = "seed_wild_rhubarb",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_wild_rhubarb.png"
+    },
+    ["seed_wintergreen_berry"] = {
+        label = "seed_wintergreen_berry",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_wintergreen_berry.png"
+    },
+    ["seed_wisteria"] = {
+        label = "seed_wisteria",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_wisteria.png"
+    },
+    ["seed_yarrow"] = {
+        label = "seed_yarrow",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/seed_yarrow.png"
+    },
+    ["strawberry"] = {
+        label = "strawberry",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/strawberry.png"
+    },
+    ["strawberry_crate"] = {
+        label = "strawberry_crate",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/strawberry_crate.png"
+    },
+    ["strawberry_seed"] = {
+        label = "strawberry_seed",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/strawberry_seed.png"
+    },
+    ["tomato"] = {
+        label = "tomato",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/tomato.png"
+    },
+    ["tomato_crate"] = {
+        label = "tomato_crate",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/tomato_crate.png"
+    },
+    ["tomato_seed"] = {
+        label = "tomato_seed",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/tomato_seed.png"
+    },
+    ["watering_can"] = {
+        label = "watering_can",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/watering_can.png"
+    },
+    ["watering_can_full"] = {
+        label = "watering_can_full",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/watering_can_full.png"
+    },
+    ["wheat"] = {
+        label = "wheat",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/wheat.png"
+    },
+    ["wheat_bag"] = {
+        label = "wheat_bag",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/wheat_bag.png"
+    },
+    ["wheat_seed"] = {
+        label = "wheat_seed",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/farming/wheat_seed.png"
+    },
+    ["1000bearerbond"] = {
+        label = "1000bearerbond",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/1000bearerbond.png"
+    },
+    ["adress_book"] = {
+        label = "adress_book",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/adress_book.png"
+    },
+    ["advancedlockpick"] = {
+        label = "advancedlockpick",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/advancedlockpick.png"
+    },
+    ["bomb"] = {
+        label = "bomb",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/bomb.png"
+    },
+    ["c4_bomb"] = {
+        label = "c4_bomb",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/c4_bomb.png"
+    },
+    ["cashroll"] = {
+        label = "cashroll",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/cashroll.png"
+    },
+    ["co2"] = {
+        label = "co2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/co2.png"
+    },
+    ["cryptostick"] = {
+        label = "cryptostick",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/cryptostick.png"
+    },
+    ["dirtymoney"] = {
+        label = "dirtymoney",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/dirtymoney.png"
+    },
+    ["drill"] = {
+        label = "drill",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/drill.png"
+    },
+    ["drillbit"] = {
+        label = "drillbit",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/drillbit.png"
+    },
+    ["electronickit"] = {
+        label = "electronickit",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/electronickit.png"
+    },
+    ["explosive"] = {
+        label = "explosive",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/explosive.png"
+    },
+    ["fakecash"] = {
+        label = "fakecash",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/fakecash.png"
+    },
+    ["fakecert"] = {
+        label = "fakecert",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/fakecert.png"
+    },
+    ["fakedriver"] = {
+        label = "fakedriver",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/fakedriver.png"
+    },
+    ["fakelawyer"] = {
+        label = "fakelawyer",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/fakelawyer.png"
+    },
+    ["fakeplate"] = {
+        label = "fakeplate",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/fakeplate.png"
+    },
+    ["fakeweap"] = {
+        label = "fakeweap",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/fakeweap.png"
+    },
+    ["feet2"] = {
+        label = "feet2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/feet2.png"
+    },
+    ["generator"] = {
+        label = "generator",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/generator.png"
+    },
+    ["gps_hacking_device"] = {
+        label = "gps_hacking_device",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/gps_hacking_device.png"
+    },
+    ["hacking_device"] = {
+        label = "hacking_device",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/hacking_device.png"
+    },
+    ["hacking_device2"] = {
+        label = "hacking_device2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/hacking_device2.png"
+    },
+    ["handgun"] = {
+        label = "handgun",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/handgun.png"
+    },
+    ["hands"] = {
+        label = "hands",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/hands.png"
+    },
+    ["hardrive"] = {
+        label = "hardrive",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/hardrive.png"
+    },
+    ["head_bag"] = {
+        label = "head_bag",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/head_bag.png"
+    },
+    ["hlabs_chemicals"] = {
+        label = "hlabs_chemicals",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/hlabs_chemicals.png"
+    },
+    ["hlabs_formula"] = {
+        label = "hlabs_formula",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/hlabs_formula.png"
+    },
+    ["hydrochloricacid"] = {
+        label = "hydrochloricacid",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/hydrochloricacid.png"
+    },
+    ["hydrogen"] = {
+        label = "hydrogen",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/hydrogen.png"
+    },
+    ["ilegalmoney"] = {
+        label = "ilegalmoney",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/ilegalmoney.png"
+    },
+    ["ironoxide"] = {
+        label = "ironoxide",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/ironoxide.png"
+    },
+    ["jammer"] = {
+        label = "jammer",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/jammer.png"
+    },
+    ["keycard"] = {
+        label = "keycard",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/keycard.png"
+    },
+    ["labcard"] = {
+        label = "labcard",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/labcard.png"
+    },
+    ["lockpick"] = {
+        label = "lockpick",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/lockpick.png"
+    },
+    ["markedbills"] = {
+        label = "markedbills",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/markedbills.png"
+    },
+    ["markedbills2"] = {
+        label = "markedbills2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/markedbills2.png"
+    },
+    ["markedbills3"] = {
+        label = "markedbills3",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/markedbills3.png"
+    },
+    ["markedbills4"] = {
+        label = "markedbills4",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/markedbills4.png"
+    },
+    ["moneybag"] = {
+        label = "moneybag",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/moneybag.png"
+    },
+    ["moneybag2"] = {
+        label = "moneybag2",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/moneybag2.png"
+    },
+    ["moneybag3"] = {
+        label = "moneybag3",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/moneybag3.png"
+    },
+    ["multitool"] = {
+        label = "multitool",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/multitool.png"
+    },
+    ["plate"] = {
+        label = "plate",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/plate.png"
+    },
+    ["scale"] = {
+        label = "scale",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/scale.png"
+    },
+    ["screwdriverset"] = {
+        label = "screwdriverset",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/screwdriverset.png"
+    },
+    ["spray_ballas"] = {
+        label = "spray_ballas",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/spray_ballas.png"
+    },
+    ["spray_gsf"] = {
+        label = "spray_gsf",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/spray_gsf.png"
+    },
+    ["spray_vagos"] = {
+        label = "spray_vagos",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/spray_vagos.png"
+    },
+    ["spraycan"] = {
+        label = "spraycan",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/spraycan.png"
+    },
+    ["stolenmicro"] = {
+        label = "stolenmicro",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/stolenmicro.png"
+    },
+    ["stolenstereo"] = {
+        label = "stolenstereo",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/stolenstereo.png"
+    },
+    ["stolentv"] = {
+        label = "stolentv",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/stolentv.png"
+    },
+    ["van_lockpick"] = {
+        label = "van_lockpick",
+        image = "https://raw.githubusercontent.com/Mistextreme/fivem-items-gallery/main/images/illegal/van_lockpick.png"
     }
 }
